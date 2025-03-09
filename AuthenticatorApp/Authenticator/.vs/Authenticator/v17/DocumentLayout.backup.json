@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Authenticator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC21C3D-307B-4C48-882F-B071FB21DFDF}|..\\OTPService\\OTPService.csproj|d:\\otpservice\\utilities\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC21C3D-307B-4C48-882F-B071FB21DFDF}|..\\OTPService\\OTPService.csproj|d:\\otpservice\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC21C3D-307B-4C48-882F-B071FB21DFDF}|..\\OTPService\\OTPService.csproj|d:\\otpservice\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC21C3D-307B-4C48-882F-B071FB21DFDF}|..\\OTPService\\OTPService.csproj|d:\\otpservice\\dataaccess\\otpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC21C3D-307B-4C48-882F-B071FB21DFDF}|..\\OTPService\\OTPService.csproj|d:\\otpservice\\models\\otprecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538F245A-1292-4A35-B502-96A60B99C4C3}|..\\EmailSender\\EmailSender.csproj|d:\\emailsender\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478AB652-1A78-40AA-A019-B3177396D69B}|..\\IAuthenticatorService\\AuthenticatorService.csproj|d:\\iauthenticatorservice\\iauthenticatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC21C3D-307B-4C48-882F-B071FB21DFDF}|..\\OTPService\\OTPService.csproj|d:\\otpservice\\otpservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538F245A-1292-4A35-B502-96A60B99C4C3}|..\\EmailSender\\EmailSender.csproj|d:\\emailsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538F245A-1292-4A35-B502-96A60B99C4C3}|..\\EmailSender\\EmailSender.csproj|d:\\emailsender\\emailsender.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|d:\\authenticator\\controllers\\stepauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|solutionrelative:controllers\\stepauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|d:\\authenticator\\models\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|solutionrelative:models\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|d:\\authenticator\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|d:\\authenticator\\dataaccess\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|solutionrelative:dataaccess\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|d:\\authenticator\\authenticator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|solutionrelative:authenticator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomGenerator.cs",
+              "DocumentMoniker": "D:\\OTPService\\Utilities\\RandomGenerator.cs",
+              "RelativeDocumentMoniker": "..\\OTPService\\Utilities\\RandomGenerator.cs",
+              "ToolTip": "D:\\OTPService\\Utilities\\RandomGenerator.cs",
+              "RelativeToolTip": "..\\OTPService\\Utilities\\RandomGenerator.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:16:31.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OTPService",
+              "DocumentMoniker": "D:\\OTPService\\OTPService.csproj",
+              "RelativeDocumentMoniker": "..\\OTPService\\OTPService.csproj",
+              "ToolTip": "D:\\OTPService\\OTPService.csproj",
+              "RelativeToolTip": "..\\OTPService\\OTPService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T23:12:42.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthenticatorService.cs",
+              "DocumentMoniker": "D:\\IAuthenticatorService\\IAuthenticatorService.cs",
+              "RelativeDocumentMoniker": "..\\IAuthenticatorService\\IAuthenticatorService.cs",
+              "ToolTip": "D:\\IAuthenticatorService\\IAuthenticatorService.cs",
+              "RelativeToolTip": "..\\IAuthenticatorService\\IAuthenticatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:03:12.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\EmailSender\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\EmailSender\\Services\\EmailService.cs",
+              "ToolTip": "D:\\EmailSender\\Services\\EmailService.cs",
+              "RelativeToolTip": "..\\EmailSender\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:01:17.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailSender",
+              "DocumentMoniker": "D:\\EmailSender\\EmailSender.csproj",
+              "RelativeDocumentMoniker": "..\\EmailSender\\EmailSender.csproj",
+              "ToolTip": "D:\\EmailSender\\EmailSender.csproj",
+              "RelativeToolTip": "..\\EmailSender\\EmailSender.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T23:00:49.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Step.cs",
+              "DocumentMoniker": "D:\\Authenticator\\Models\\Step.cs",
+              "RelativeDocumentMoniker": "Models\\Step.cs",
+              "ToolTip": "D:\\Authenticator\\Models\\Step.cs",
+              "RelativeToolTip": "Models\\Step.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:55:54.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StepAuthenticator.cs",
+              "DocumentMoniker": "D:\\Authenticator\\Controllers\\StepAuthenticator.cs",
+              "RelativeDocumentMoniker": "Controllers\\StepAuthenticator.cs",
+              "ToolTip": "D:\\Authenticator\\Controllers\\StepAuthenticator.cs",
+              "RelativeToolTip": "Controllers\\StepAuthenticator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:52:41.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EmailSender\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmailSender\\Program.cs",
+              "ToolTip": "D:\\EmailSender\\Program.cs",
+              "RelativeToolTip": "..\\EmailSender\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:49:37.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OTPRecord.cs",
+              "DocumentMoniker": "D:\\OTPService\\Models\\OTPRecord.cs",
+              "RelativeDocumentMoniker": "..\\OTPService\\Models\\OTPRecord.cs",
+              "ToolTip": "D:\\OTPService\\Models\\OTPRecord.cs",
+              "RelativeToolTip": "..\\OTPService\\Models\\OTPRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:35:23.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OTPService.cs",
+              "DocumentMoniker": "D:\\OTPService\\Services\\OTPService.cs",
+              "RelativeDocumentMoniker": "..\\OTPService\\Services\\OTPService.cs",
+              "ToolTip": "D:\\OTPService\\Services\\OTPService.cs",
+              "RelativeToolTip": "..\\OTPService\\Services\\OTPService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:30:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOTPService.cs",
+              "DocumentMoniker": "D:\\OTPService\\IOTPService.cs",
+              "RelativeDocumentMoniker": "..\\OTPService\\IOTPService.cs",
+              "ToolTip": "D:\\OTPService\\IOTPService.cs",
+              "RelativeToolTip": "..\\OTPService\\IOTPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:29:38.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OTPContext.cs",
+              "DocumentMoniker": "D:\\OTPService\\DataAccess\\OTPContext.cs",
+              "RelativeDocumentMoniker": "..\\OTPService\\DataAccess\\OTPContext.cs",
+              "ToolTip": "D:\\OTPService\\DataAccess\\OTPContext.cs",
+              "RelativeToolTip": "..\\OTPService\\DataAccess\\OTPContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:33:53.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Authenticator\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Authenticator\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:56:46.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Authenticator\\DataAccess\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationContext.cs",
+              "ToolTip": "D:\\Authenticator\\DataAccess\\ApplicationContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:24:03.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Authenticator",
+              "DocumentMoniker": "D:\\Authenticator\\Authenticator.csproj",
+              "RelativeDocumentMoniker": "Authenticator.csproj",
+              "ToolTip": "D:\\Authenticator\\Authenticator.csproj",
+              "RelativeToolTip": "Authenticator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T21:52:08.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

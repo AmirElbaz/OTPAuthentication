@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Authenticator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\EmailSender\\EmailSender.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\SMSSender\\SMSSender.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

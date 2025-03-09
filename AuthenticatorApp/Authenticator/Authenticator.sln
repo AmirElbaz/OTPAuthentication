@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authenticator", "Authenticator.csproj", "{02071D0D-082B-4B86-AF2A-3C8200C09349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticatorService", "..\IAuthenticatorService\AuthenticatorService.csproj", "{478AB652-1A78-40AA-A019-B3177396D69B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSender", "..\EmailSender\EmailSender.csproj", "{538F245A-1292-4A35-B502-96A60B99C4C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSSender", "..\SMSSender\SMSSender.csproj", "{9B32A651-C55A-48E3-9F8D-017F320ECAC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTPService", "..\OTPService\OTPService.csproj", "{ADC21C3D-307B-4C48-882F-B071FB21DFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02071D0D-082B-4B86-AF2A-3C8200C09349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02071D0D-082B-4B86-AF2A-3C8200C09349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02071D0D-082B-4B86-AF2A-3C8200C09349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02071D0D-082B-4B86-AF2A-3C8200C09349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478AB652-1A78-40AA-A019-B3177396D69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478AB652-1A78-40AA-A019-B3177396D69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478AB652-1A78-40AA-A019-B3177396D69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478AB652-1A78-40AA-A019-B3177396D69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538F245A-1292-4A35-B502-96A60B99C4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538F245A-1292-4A35-B502-96A60B99C4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538F245A-1292-4A35-B502-96A60B99C4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538F245A-1292-4A35-B502-96A60B99C4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B32A651-C55A-48E3-9F8D-017F320ECAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B32A651-C55A-48E3-9F8D-017F320ECAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B32A651-C55A-48E3-9F8D-017F320ECAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B32A651-C55A-48E3-9F8D-017F320ECAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC21C3D-307B-4C48-882F-B071FB21DFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC21C3D-307B-4C48-882F-B071FB21DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC21C3D-307B-4C48-882F-B071FB21DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC21C3D-307B-4C48-882F-B071FB21DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

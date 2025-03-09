@@ -1,0 +1,14 @@
+E:\AuthenticatorApp\IAuthenticatorService\bin\Debug\net8.0\AuthenticatorService.deps.json
+E:\AuthenticatorApp\IAuthenticatorService\bin\Debug\net8.0\AuthenticatorService.runtimeconfig.json
+E:\AuthenticatorApp\IAuthenticatorService\bin\Debug\net8.0\AuthenticatorService.dll
+E:\AuthenticatorApp\IAuthenticatorService\bin\Debug\net8.0\AuthenticatorService.pdb
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\AuthenticatorService.csproj.AssemblyReference.cache
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\AuthenticatorService.GeneratedMSBuildEditorConfig.editorconfig
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\AuthenticatorService.AssemblyInfoInputs.cache
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\AuthenticatorService.AssemblyInfo.cs
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\AuthenticatorService.csproj.CoreCompileInputs.cache
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\AuthenticatorService.dll
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\refint\AuthenticatorService.dll
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\AuthenticatorService.pdb
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\AuthenticatorService.genruntimeconfig.cache
+E:\AuthenticatorApp\IAuthenticatorService\obj\Debug\net8.0\ref\AuthenticatorService.dll

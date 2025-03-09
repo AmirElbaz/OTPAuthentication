@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AuthenticatorApp\\Authenticator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32A651-C55A-48E3-9F8D-017F320ECAC3}|..\\SMSSender\\SMSSender.csproj|e:\\authenticatorapp\\smssender\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B32A651-C55A-48E3-9F8D-017F320ECAC3}|..\\SMSSender\\SMSSender.csproj|e:\\authenticatorapp\\smssender\\controllers\\smsotpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC21C3D-307B-4C48-882F-B071FB21DFDF}|..\\OTPService\\OTPService.csproj|e:\\authenticatorapp\\otpservice\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC21C3D-307B-4C48-882F-B071FB21DFDF}|..\\OTPService\\OTPService.csproj|e:\\authenticatorapp\\otpservice\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538F245A-1292-4A35-B502-96A60B99C4C3}|..\\EmailSender\\EmailSender.csproj|e:\\authenticatorapp\\emailsender\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538F245A-1292-4A35-B502-96A60B99C4C3}|..\\EmailSender\\EmailSender.csproj|e:\\authenticatorapp\\emailsender\\services\\emailsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538F245A-1292-4A35-B502-96A60B99C4C3}|..\\EmailSender\\EmailSender.csproj|e:\\authenticatorapp\\emailsender\\controllers\\emailotpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|e:\\authenticatorapp\\authenticator\\controllers\\stepauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02071D0D-082B-4B86-AF2A-3C8200C09349}|Authenticator.csproj|solutionrelative:controllers\\stepauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SMSService.cs",
+              "DocumentMoniker": "E:\\AuthenticatorApp\\SMSSender\\Services\\SMSService.cs",
+              "RelativeDocumentMoniker": "..\\SMSSender\\Services\\SMSService.cs",
+              "ToolTip": "E:\\AuthenticatorApp\\SMSSender\\Services\\SMSService.cs",
+              "RelativeToolTip": "..\\SMSSender\\Services\\SMSService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:06:18.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SMSOTPController.cs",
+              "DocumentMoniker": "E:\\AuthenticatorApp\\SMSSender\\Controllers\\SMSOTPController.cs",
+              "RelativeDocumentMoniker": "..\\SMSSender\\Controllers\\SMSOTPController.cs",
+              "ToolTip": "E:\\AuthenticatorApp\\SMSSender\\Controllers\\SMSOTPController.cs",
+              "RelativeToolTip": "..\\SMSSender\\Controllers\\SMSOTPController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:06:08.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOTPService.cs",
+              "DocumentMoniker": "E:\\AuthenticatorApp\\OTPService\\IOTPService.cs",
+              "RelativeDocumentMoniker": "..\\OTPService\\IOTPService.cs",
+              "ToolTip": "E:\\AuthenticatorApp\\OTPService\\IOTPService.cs",
+              "RelativeToolTip": "..\\OTPService\\IOTPService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:05:54.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OTPService.cs",
+              "DocumentMoniker": "E:\\AuthenticatorApp\\OTPService\\Services\\OTPService.cs",
+              "RelativeDocumentMoniker": "..\\OTPService\\Services\\OTPService.cs",
+              "ToolTip": "E:\\AuthenticatorApp\\OTPService\\Services\\OTPService.cs",
+              "RelativeToolTip": "..\\OTPService\\Services\\OTPService.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAAAOUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:05:08.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\AuthenticatorApp\\EmailSender\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\EmailSender\\Services\\EmailService.cs",
+              "ToolTip": "E:\\AuthenticatorApp\\EmailSender\\Services\\EmailService.cs",
+              "RelativeToolTip": "..\\EmailSender\\Services\\EmailService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:04:36.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSenderService.cs",
+              "DocumentMoniker": "E:\\AuthenticatorApp\\EmailSender\\Services\\EmailSenderService.cs",
+              "RelativeDocumentMoniker": "..\\EmailSender\\Services\\EmailSenderService.cs",
+              "ToolTip": "E:\\AuthenticatorApp\\EmailSender\\Services\\EmailSenderService.cs",
+              "RelativeToolTip": "..\\EmailSender\\Services\\EmailSenderService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:04:23.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailOTPController.cs",
+              "DocumentMoniker": "E:\\AuthenticatorApp\\EmailSender\\Controllers\\EmailOTPController.cs",
+              "RelativeDocumentMoniker": "..\\EmailSender\\Controllers\\EmailOTPController.cs",
+              "ToolTip": "E:\\AuthenticatorApp\\EmailSender\\Controllers\\EmailOTPController.cs",
+              "RelativeToolTip": "..\\EmailSender\\Controllers\\EmailOTPController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:10:26.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StepAuthenticator.cs",
+              "DocumentMoniker": "E:\\AuthenticatorApp\\Authenticator\\Controllers\\StepAuthenticator.cs",
+              "RelativeDocumentMoniker": "Controllers\\StepAuthenticator.cs",
+              "ToolTip": "E:\\AuthenticatorApp\\Authenticator\\Controllers\\StepAuthenticator.cs",
+              "RelativeToolTip": "Controllers\\StepAuthenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:56:46.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

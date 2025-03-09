@@ -1,0 +1,14 @@
+E:\AuthenticatorApp\OTPService\bin\Debug\net8.0\OTPService.deps.json
+E:\AuthenticatorApp\OTPService\bin\Debug\net8.0\OTPService.dll
+E:\AuthenticatorApp\OTPService\bin\Debug\net8.0\OTPService.pdb
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\OTPService.csproj.AssemblyReference.cache
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\OTPService.GeneratedMSBuildEditorConfig.editorconfig
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\OTPService.AssemblyInfoInputs.cache
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\OTPService.AssemblyInfo.cs
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\OTPService.csproj.CoreCompileInputs.cache
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\OTPService.dll
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\refint\OTPService.dll
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\OTPService.pdb
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\ref\OTPService.dll
+E:\AuthenticatorApp\OTPService\bin\Debug\net8.0\OTPService.runtimeconfig.json
+E:\AuthenticatorApp\OTPService\obj\Debug\net8.0\OTPService.genruntimeconfig.cache
