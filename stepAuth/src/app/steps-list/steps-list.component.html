@@ -1,0 +1,24 @@
+<table style="width: 100%; border-collapse: collapse; max-width: 600px; margin: auto; text-align: left;">
+    <thead>
+      <tr style="background-color: #007BFF; color: white;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Step ID</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Status</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Responsible User</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let step of steps" style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 10px; border: 1px solid #ddd;">{{ step.id }}</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">{{ step.status }}</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">{{ step.responsibleUserId }}</td>
+        <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
+          <button (click)="authenticate(step.id)" 
+                  style="background-color: #28a745; color: white; border: none; padding: 8px 12px; border-radius: 5px; cursor: pointer;">
+            Authenticate
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  

@@ -1,0 +1,67 @@
+
+<div class="container">
+  <div class="card">
+    <h2 class="title">Enter OTP</h2>
+    <p class="subtitle">Please enter the one-time password sent to your device</p>
+    
+    <div class="otp-info" *ngIf="!otpBlocked">
+      <div class="info-badge">
+        <span class="info-label">Remaining OTPs:</span>
+        <span class="info-value">{{ remainingGenerations }}/3</span>
+      </div>
+      <div class="info-badge" *ngIf="attemptsLeft < 3">
+        <span class="info-label">Attempts left:</span>
+        <span class="info-value">{{ attemptsLeft }}/3</span>
+      </div>
+    </div>
+
+    <div class="blocked-message" *ngIf="otpBlocked">
+      <div class="blocked-icon">⚠️</div>
+      <p>You have been temporarily blocked due to too many failed attempts.</p>
+      <div *ngIf="blockExpiry" class="block-timer">
+        <p>Your account will be unblocked in:</p>
+        <div class="countdown">{{ blockTimeRemaining }}</div>
+      </div>
+      <p *ngIf="!blockExpiry">Please contact support for assistance.</p>
+    </div>
+    
+    <div *ngIf="!otpBlocked">
+      <div class="otp-container">
+        <input 
+          *ngFor="let digit of otpDigits; let i = index" 
+          type="text" 
+          class="otp-input" 
+          maxlength="1" 
+          [formControl]="otpControls[i]"
+          (keyup)="onOtpDigitInput($event, i)"
+          (paste)="onPaste($event)"
+          #otpInput
+        >
+      </div>
+      
+      <div class="error-message" *ngIf="errorMessage">
+        {{ errorMessage }}
+      </div>
+      
+      <div class="expired-message" *ngIf="otpExpired">
+        <p>The OTP has expired. Please request a new one.</p>
+      </div>
+      
+      <div class="button-container">
+        <button class="reject-button" (click)="validateOtp(0)" [disabled]="loading">Reject</button>
+        <button class="accept-button" (click)="validateOtp(1)" [disabled]="!isOtpComplete() || loading">Accept</button>
+      </div>
+      
+      <div class="resend-container">
+        <p>Didn't receive the code?</p>
+        <button 
+          class="resend-button" 
+          [disabled]="timerCount > 0 || loading || remainingGenerations <= 0"
+          (click)="resendOtp()"
+        >
+          Resend OTP {{ timerCount > 0 ? '(' + timerCount + 's)' : '' }}
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
